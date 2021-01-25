@@ -38,7 +38,7 @@
   "last_nearby_books": "近くの人々の新しい本",
   "last_nearby_books_more": "...そして [%{smart_count} 以上](https://inventaire.io/inventory/nearby)",
   "last_network_books": "あなたの友達やコミュニティ内の新しい本",
-  "last_network_books_more": "...そして [%{smart_count} 以上](https://inventaire.io/inventory)",
+  "last_network_books_more": "...そして [%{smart_count} 以上](https://inventaire.io/inventory/network)",
   "news_4": null,
   "no_activity": "表示対象の活動はありません",
   "pending_friends_requests_count": "[保留中の友達リクエスト](%{href})が**%{smart_count}**件あります  |||| [保留中の友達リクエスト](%{href})が**%{smart_count}** 件あります",

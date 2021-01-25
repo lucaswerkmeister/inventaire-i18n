@@ -38,7 +38,7 @@
   "last_nearby_books": "les derniers livres ajoutés près de chez vous",
   "last_nearby_books_more": "...et [encore %{smart_count} autre](https://inventaire.io/inventory/nearby) |||| ...et [encore %{smart_count} autres](https://inventaire.io/inventory/nearby)",
   "last_network_books": "nouveaux livres dans l'inventaire de vos amis et groupes",
-  "last_network_books_more": "...et [%{smart_count} de plus](https://inventaire.io/inventory)",
+  "last_network_books_more": "...et [%{smart_count} de plus](https://inventaire.io/inventory/network)",
   "news_4": "**La nouvelle interface d'Inventaire est arrivée !** Vous pouvez désormais naviguer les [inventaires](https://inventaire.io/inventory) en fonction de leurs auteurs, genres ou sujets. Nous avons également mis en place une nouvelle manière plus compacte d'afficher les inventaires : à partir du bouton **Mode d'affichage**, sélectionnez **Tableau**. Ce mode Tableau permet également de **changer la visibilité et les modes de transactions de plusieurs livres à la fois**, ce qui devrait grandement faciliter la vie de ceux qui ont de nombreux livres inventoriés.<br>D'autres améliorations sont en cours de développement pour vous aider à organiser votre inventaire : on vous tient au courant !",
   "no_activity": "aucune activité à afficher",
   "pending_friends_requests_count": "vous avez **%{smart_count}** [demande de connexion en attente](%{href}) |||| vous avez **%{smart_count}** [demandes de connexion en attente](%{href})",

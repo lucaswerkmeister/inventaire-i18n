@@ -38,7 +38,7 @@
   "last_nearby_books": "novaj libroj en stoko de proksimuloj",
   "last_nearby_books_more": "... kaj [%{smart_count} pli](https://inventaire.io/inventory/nearby)",
   "last_network_books": "novaj libroj en stokoj de viaj amikoj kaj grupoj",
-  "last_network_books_more": "... kaj [%{smart_count} pli](https://inventaire.io/inventory)",
+  "last_network_books_more": "... kaj [%{smart_count} pli](https://inventaire.io/inventory/network)",
   "news_4": null,
   "no_activity": "neniuj videblaj aktivecoj",
   "pending_friends_requests_count": "vi havas **%{smart_count}** [pritraktotan amikiĝpeton](%{href}) |||| vi havas **%{smart_count}** [pritraktotajn amikiĝpetojn](%{href})",

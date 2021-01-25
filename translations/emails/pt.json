@@ -38,7 +38,7 @@
   "last_nearby_books": "livros novos nos inventários de pessoas perto de você",
   "last_nearby_books_more": "...e [%{smart_count} mais](https://inventaire.io/inventory/nearby)",
   "last_network_books": "livros novos nos inventários dos seus amigos e grupos",
-  "last_network_books_more": "...e [%{smart_count} mais](https://inventaire.io/inventory)",
+  "last_network_books_more": "...e [%{smart_count} mais](https://inventaire.io/inventory/network)",
   "news_4": null,
   "no_activity": "nenhuma atividade para mostrar",
   "pending_friends_requests_count": "tem **%{smart_count}** [pedido de amigo pendente](%{href}) |||| tem **%{smart_count}** [pedidos de amigos pendentes](%{href})",

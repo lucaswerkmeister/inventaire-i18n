@@ -38,7 +38,7 @@
   "last_nearby_books": "yakınlardaki insanların envanterlerinde yeni kitaplar",
   "last_nearby_books_more": "...ve [%{smart_count} tane daha](https://inventaire.io/inventory/nearby)",
   "last_network_books": "arkadaşlarınızın ve grupların envanterlerinde ki yeni kitaplar",
-  "last_network_books_more": "...ve [%{smart_count} tane daha](https://inventaire.io/inventory)",
+  "last_network_books_more": "...ve [%{smart_count} tane daha](https://inventaire.io/inventory/network)",
   "news_4": null,
   "no_activity": "gösterilecek etkinlik yok",
   "pending_friends_requests_count": "**%{smart_count}** [bekleyen arkadaşlık isteği] var (%{href}) ||||  **%{smart_count}** [bekleyen arkadaşlık isteği] var(%{href})",

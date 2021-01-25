@@ -38,7 +38,7 @@
   "last_nearby_books": "nieuwe boeken in inventarissen in je omgeving",
   "last_nearby_books_more": "...en nog [%{smart_count}](https://inventaire.io/inventory/nearby)",
   "last_network_books": "nieuwe boeken in inventarissen in uw omgeving",
-  "last_network_books_more": "...en [nog %{smart_count}](https://inventaire.io/inventory)",
+  "last_network_books_more": "...en [nog %{smart_count}](https://inventaire.io/inventory/network)",
   "news_4": null,
   "no_activity": "niets om weer te geven",
   "pending_friends_requests_count": "je hebt **%{smart_count}** [uitstaand vriendschapsverzoek](%{href}) |||| je hebt **%{smart_count}** [uitstaande vriendschapsverzoeken](%{href})",

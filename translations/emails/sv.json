@@ -38,7 +38,7 @@
   "last_nearby_books": "Nya böcker i användares inventering nära dig.",
   "last_nearby_books_more": "...och [%{smart_count} till](https://inventaire.io/inventory/nearby)",
   "last_network_books": "nya böcker i dina vänners och gruppers inventeringar",
-  "last_network_books_more": "...och [%{smart_count} till](https://inventaire.io/inventory)",
+  "last_network_books_more": "...och [%{smart_count} till](https://inventaire.io/inventory/network)",
   "news_4": null,
   "no_activity": "Ingen aktivitet att visa.",
   "pending_friends_requests_count": "Du har **%{smart_count}** [obesvarad vänförfrågan](%{href}) |||| Du har **%{smart_count}** [obesvarade vänförfrågningar](%{href})",

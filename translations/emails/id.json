@@ -38,7 +38,7 @@
   "last_nearby_books": "buku terbaru di inventori orang-orang di sekitar anda",
   "last_nearby_books_more": "...dan [%{smart_count} lagi](https://inventaire.io/inventory/nearby)",
   "last_network_books": "buku-buku di inventori teman-teman dan grup anda",
-  "last_network_books_more": "...dan [%{smart_count} lagi](https://inventaire.io/inventory)",
+  "last_network_books_more": "...dan [%{smart_count} lagi](https://inventaire.io/inventory/network)",
   "news_4": "**Antarmuka Inventaire yang baru ada di sini!** Sekarang Anda dapat menelusuri [inventaris](https://inventaire.io/inventory) oleh penulis, genre, atau subjek. Kami juga memperkenalkan tampilan baru untuk menelusuri inventaris dengan cara yang lebih ringkas: cari tombol **Mode Tampilan**, dan pilih **Tabel**. Mode Tabel ini juga memungkinkan Anda untuk **mengubah visibilitas atau mode transaksi dari banyak buku Anda sekaligus**, yang dulunya merupakan langkah yang menyulitkan.<br>Akan datang lebih banyak lagi!",
   "no_activity": "tidak ada aktivitas untuk ditampilkan",
   "pending_friends_requests_count": "anda memiliki **%{smart_count}** [permintaan pertemanan menanti](%(href)) |||| anda memiliki **%{smart_count}** [permintaan pertemanan menanti](%{href})",

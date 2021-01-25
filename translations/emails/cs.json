@@ -38,7 +38,7 @@
   "last_nearby_books": "nové knihy v katalozích lidí v okolí",
   "last_nearby_books_more": "...a [%{smart_count} další](https://inventaire.io/inventory/nearby) |||| ...a [%{smart_count} další](https://inventaire.io/inventory/nearby) |||| ...a [%{smart_count} dalších](https://inventaire.io/inventory/nearby)",
   "last_network_books": "nové knihy v katalozích tvých přátel a skupin",
-  "last_network_books_more": "...a [%{smart_count} další](https://inventaire.io/inventory) |||| ...a [%{smart_count} další](https://inventaire.io/inventory) |||| ...a [%{smart_count} dalších](https://inventaire.io/inventory)",
+  "last_network_books_more": "...a [%{smart_count} další](https://inventaire.io/inventory/network) |||| ...a [%{smart_count} další](https://inventaire.io/inventory/network) |||| ...a [%{smart_count} dalších](https://inventaire.io/inventory/network)",
   "news_4": null,
   "no_activity": "žádná aktivita k zobrazení",
   "pending_friends_requests_count": "máš **%{smart_count}** [nevyřízenou žádost o přátelství](%{href}) |||| máš **%{smart_count}** [nevyřízené žádosti o přátelství](%{href}) |||| máš **%{smart_count}** [nevyřízených žádostí o přátelství](%{href})",
