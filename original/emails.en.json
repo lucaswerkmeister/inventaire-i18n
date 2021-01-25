@@ -43,7 +43,7 @@
   "last_nearby_books": "new books in nearby people inventories",
   "last_nearby_books_more": "...and [%{smart_count} more](https://inventaire.io/inventory/nearby)",
   "last_network_books": "new books in your friends' and groups' inventories",
-  "last_network_books_more": "...and [%{smart_count} more](https://inventaire.io/inventory)",
+  "last_network_books_more": "...and [%{smart_count} more](https://inventaire.io/inventory/network)",
   "lending_personalized": null,
   "lending_personalized_strong": null,
   "news": null,
