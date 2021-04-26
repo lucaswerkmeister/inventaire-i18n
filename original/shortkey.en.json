@@ -29,6 +29,7 @@
   "destroy_group_confirmation": "Are you sure you want to destroy the group **%{groupName}**?",
   "details_placeholder": "you might want to give more details on the item or the transaction",
   "display_mode": "display mode",
+  "display_name": "display",
   "donate_intro": "inventaire.io is a project aiming to produce useful tools to handle our resources while pushing open knowledge further. In the medium-term, the project's mission should be [supported by an economic activity as described in the Roadmap](https://trello.com/c/Z7alRtpZ).<br>Until then, you can **support the project development by donating** through one of the following channels:",
   "edit_entity": "edit \"%{entity}\"",
   "editing_selected_items": "edit **%{smart_count}** item |||| edit **%{smart_count}** items",

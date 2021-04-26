@@ -57,7 +57,7 @@
   "P1680": "subtítulo",
   "P1844": "HathiTrust id",
   "P1938": "identificador Proyecto Gutenberg de autor",
-  "P1960": "identificador Google Académico",
+  "P1960": "identificador Google Académico de un autor",
   "P1982": "identificador Anime News Network de persona",
   "P1983": "identificador de empresa Anime News Network",
   "P1984": "identificador Anime News Network de manga",
@@ -82,5 +82,5 @@
   "P5491": "identificador BD Gest'",
   "P5571": "identificador NooSFere de libro",
   "P6338": "colorista",
-  "P7400": null
+  "P7400": "identificador LibraryThing de un autor"
 }
