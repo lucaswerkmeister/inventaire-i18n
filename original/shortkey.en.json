@@ -5,6 +5,7 @@
   "add_item_text": "Adding **%{label}** to your inventory",
   "any_isbn_text_file": "any text file containing [ISBN](https://en.wikipedia.org/wiki/ISBN)s",
   "article_limitation": "this is an article and not a book: it can't be added to your inventory",
+  "authorization_request_context": "Hi **%{username}**,<br>In order to complete your request, **%{name}** needs permission to perform the following actions on your behalf on **%{domain}**:",
   "before_accepting_general": "Before accepting, you probably want to discuss the following point(s):",
   "before_accepting_lending_advice": "Do not lend books you absolutely want to see come back if you're not sure you can trust this person.",
   "book_displayed_unavailable": "The book is now displayed as unavailable.",
