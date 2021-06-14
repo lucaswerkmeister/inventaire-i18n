@@ -34,6 +34,7 @@
   "donate_intro": "inventaire.io is a project aiming to produce useful tools to handle our resources while pushing open knowledge further. In the medium-term, the project's mission should be [supported by an economic activity as described in the Roadmap](https://trello.com/c/Z7alRtpZ).<br>Until then, you can **support the project development by donating** through one of the following channels:",
   "edit_entity": "edit \"%{entity}\"",
   "editing_selected_items": "edit **%{smart_count}** item |||| edit **%{smart_count}** items",
+  "position_settings_description": "you may declare a position to tell others where your books are. Either your network or everybody will see this position, depending of the visibility of each book.",
   "email_confirmation_error": "email confirmation request was invalid or expired",
   "email_confirmation_error_button": "send a new confirmation email",
   "email_confirmation_offline_error": "login to request a new confirmation email",
