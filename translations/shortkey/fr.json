@@ -52,7 +52,7 @@
   "get_involved": "Vous pensez pouvoir contribuer à améliorer Inventaire ?<br> Lancez-vous !",
   "giving_personalized": "%{username} le donne",
   "giving_personalized_strong": "**%{username}** le donne",
-  "global_email_toggle_warning": "Désactiver toutes les notifications par email est déconseillé car vous pourriez manquer des informations importantes : si possible, ajustez les paramètres ci-dessous à vos besoins",
+  "global_email_toggle_warning": "Désactiver toutes les notifications par e-mail est déconseillé car vous pourriez manquer des informations importantes : si possible, ajustez les paramètres ci-dessous à vos besoins",
   "global_notification": "recevoir des notifications par email",
   "group_acceptRequest_notification": "votre demande pour rejoindre un groupe a été acceptée",
   "group_default_description": "parcourez les livres que les membres du groupe %{groupName} donnent, prêtent ou vendent",
