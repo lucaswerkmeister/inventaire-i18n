@@ -57,8 +57,7 @@ npm run build-emails
 Built values are tailored to work with [Polyglot](http://airbnb.io/polyglot.js/)
 
 ## push
-To update the main branch you may first commit and push.
-
-Then in the client repo `npm run update-i18n`
-
-Then: `npm run update-dist` to make file available to the client
+To make the translations available to the server and the client:
+* Commit on the `master` branch
+* Run `npm run update-dist` to update the `dist` branch and make the built files available to the server and client
+* In the server or client repo, run `npm run update-i18n` to fetch the latest dist files
