@@ -124,7 +124,7 @@
   "pitch_your_data": null,
   "position_privacy_context": "Att uppge din position möjliggör för användare i närheten att se dina publika böcker och sända förfrågan.",
   "position_privacy_tip": "Det är inte nödvändigt att du uppger din exakta adress, välj istället en plats i närheten av ditt jobb eller där du bor, eller där du känner dig bekväm med att göra ditt bokbyte.",
-  "project_contributors_credits": null,
+  "project_contributors_credits": "alla de underbara människor som<br>[förbättrar data](https://wiki.inventaire.io/wiki/Data), här liksom på [Wikidata](https://wikidata.org),<br>[designar projektets framtid](http://roadmap.inventaire.io),<br>[bidrar med kod eller teknisk expertis](http://git.inventaire.io),<br>[berikar wikin](https://wiki.inventaire.io),<br>[hjälper med översättning](http://translate.inventaire.io)<br>**Ett stort tack till er alla som får det här projektet att växa varje dag!**",
   "read_more_on_wikipedia": "Läs mer eller redigera på Wikipedia",
   "report_an_error_in_entity_data": null,
   "request_new_token": "begär en ny chans att återställa ditt lösenord",
