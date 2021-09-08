@@ -44,6 +44,7 @@
   "exchanges_manager_welcome_title": "Welcome to the transactions manager!",
   "existing_entity_items": "you already have [%{smart_count} in your inventory](%{pathname})",
   "failing_scan_tip": "if the scanner has difficulties to find the codebar, it might be that the light isn't adequate or that the camera isn't good enough",
+  "fediversable_description": "This option lets you be visible on the fediverse. This way, users of fediverse services (such as Mastodon or Pleroma) will be able to find and follow your account at %{username}@%{host}.<br>When the box below is checked, everytime you add a book to your inventory, your followers on the fediverse will receive an automatically generated message about that book.<br>This concerns only publicly visible books.<br>To prevent sending too many messages, when several books are added at about the same time, only one summary message will be sent.",
   "feedback_intro": "A bug to report, a functionality that you absolutely need, or maybe you just want to send love? You can do that here!",
   "feedback_title": "send feedback",
   "friend_accepted_request": "%{username} accepted your request",
