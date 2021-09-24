@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+const [ lang ] = process.argv.slice(2)
+if (lang == null) throw new Error('missing lang')
+
+const serverValues = require('./lib/get_lang_server_values')(lang)
+console.log(JSON.stringify(serverValues, null, 2))

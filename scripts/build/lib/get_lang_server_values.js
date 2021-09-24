@@ -1,8 +1,8 @@
 const convertMarkdown = require('./convert_markdown')
-const enValues = require('../../../original/emails.en.json')
+const enValues = require('../../../original/server.en.json')
 
 module.exports = lang => {
-  const langValues = require(`../../../translations/emails/${lang}.json`)
+  const langValues = require(`../../../translations/server/${lang}.json`)
   const langClientDistValues = require(`../../../dist/client/${lang}.json`)
   const distValues = {}
 

@@ -1,12 +1,12 @@
 #!/usr/bin/env node
 const convertMarkdown = require('./lib/convert_markdown')
-const emailsValues = require('../../original/emails.en.json')
+const serverValues = require('../../original/server.en.json')
 const enClientDistValues = require('../../dist/client/en.json')
 
 const distValues = {}
-for (const key in emailsValues) {
+for (const key in serverValues) {
   // Borrowing values from the client
-  const value = emailsValues[key]
+  const value = serverValues[key]
   if (value === null) {
     distValues[key] = enClientDistValues[key]
   } else {

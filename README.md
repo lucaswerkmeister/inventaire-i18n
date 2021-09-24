@@ -1,7 +1,7 @@
 # inventaire-i18n
 [i18n](https://en.wikipedia.org/wiki/I18n) files for Inventaire:
 * client: `dist/client`
-* server: `dist/emails`
+* server: `dist/server`
 
 
 ## install
@@ -48,10 +48,10 @@ npm run fetch-translations
 ```
 
 ## build
-Populates `./dist/client` and `./dist/emails` with the previously fetched resources
+Populates `./dist/client` and `./dist/server` with the previously fetched resources
 ```sh
 npm run build-client
-npm run build-emails
+npm run build-server
 ```
 
 Built values are tailored to work with [Polyglot](http://airbnb.io/polyglot.js/)
