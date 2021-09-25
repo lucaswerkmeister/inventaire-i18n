@@ -6,6 +6,7 @@
   "activity_summary_title": "Your activity summary",
   "cancelled": "%{username} cancelled the transaction",
   "confirmed": "%{username} confirmed to have received the book",
+  "create_items_activity": "New in my inventory:",
   "declined": "%{username} declined your request",
   "did you know?": "did you know?",
   "did_you_know_1": "If your friends aren't on inventaire.io yet, you can [invite them by email](https://inventaire.io/network/users/invite) to start sharing your books inventories!",

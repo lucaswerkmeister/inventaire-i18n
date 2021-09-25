@@ -1,4 +1,4 @@
-const transifexResources = [ 'emails', 'shortkey', 'fullkey' ]
+const transifexResources = [ 'server', 'shortkey', 'fullkey' ]
 const wikidataPropertiesList = require('../../../original/wikidata.properties_list')
 const pick = require('./pick')
 

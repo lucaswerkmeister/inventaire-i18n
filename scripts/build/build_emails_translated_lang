@@ -1,7 +1,0 @@
-#!/usr/bin/env node
-const [ lang ] = process.argv.slice(2)
-if (lang == null) throw new Error('missing lang')
-const fs = require('fs')
-
-const emailValues = require('./lib/get_lang_emails_values')(lang)
-console.log(JSON.stringify(emailValues, null, 2))
