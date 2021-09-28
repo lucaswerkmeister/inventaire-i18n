@@ -8,7 +8,7 @@
   "cancelled": "%{username} cancelled the transaction",
   "collection_has_new_edition": "A new edition has been added to [%{objectLabel}](%{objectUrl}): [\"%{subjectLabel}\"](%{subjectUrl})",
   "confirmed": "%{username} confirmed to have received the book",
-  "create_items_activity": "New in my inventory:",
+  "create_items_activity": "New book",
   "declined": "%{username} declined your request",
   "did you know?": "did you know?",
   "did_you_know_1": "If your friends aren't on inventaire.io yet, you can [invite them by email](https://inventaire.io/network/users/invite) to start sharing your books inventories!",
