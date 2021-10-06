@@ -44,7 +44,7 @@
   "exchanges_manager_welcome_title": "Willkommen zum Transaktionsmanager!",
   "existing_entity_items": "du hast schon [%{smart_count} in deinem Inventar](%{pathname})",
   "failing_scan_tip": "wenn der Scanner Schwierigkeiten hat, den Barcode zu erkennen, kann es sein, dass eine bessere Beleuchtung nötig ist, oder die Kamera nicht gut genug ist",
-  "fediversable_description": null,
+  "fediversable_description": "Mit dieser Option können Sie im fediverse sichtbar sein. Auf diese Weise können Benutzer von fediverse-Diensten (wie Mastodon oder Pleroma) Ihren Account unter %{username}@%{host} finden und ihm folgen.<br>Wenn das untenstehende Kästchen angekreuzt ist, erhalten Ihre Follower im fediverse jedes Mal, wenn Sie ein Buch zu Ihrem Inventar hinzufügen, eine automatisch generierte Nachricht über dieses Buch.<br> Dies betrifft nur öffentlich sichtbare Bücher.<br>Um zu vermeiden, dass zu viele Nachrichten verschickt werden, wird nur eine zusammenfassende Nachricht verschickt, wenn mehrere Bücher ungefähr zur gleichen Zeit hinzugefügt werden.",
   "feedback_intro": "Du hast einen Programmfehler gefunden, es gibt eine Funktionalität, die du absolut brauchst oder möchtest einfach Deine Liebe teilen? Das kannst du hier tun!",
   "feedback_title": "Gebe Rückmeldung",
   "friend_accepted_request": "%{username} hat Deine Anfrage bestätigt",
