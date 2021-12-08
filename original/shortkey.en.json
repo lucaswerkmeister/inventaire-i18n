@@ -79,6 +79,8 @@
   "item_request_text_suggestion_giving": "Hello %{username}! May I have this book?",
   "item_request_text_suggestion_lending": "Hello %{username}! May I borrow this book?",
   "item_request_text_suggestion_selling": "Hello %{username}! May I buy this book?",
+  "join_open_group_confirmation": "Are you sure you want to join the open group %{name}?",
+  "join_open_group_warning": "Anyone can join and see the books you share with that group",
   "just_inventorize_it": "none (just add it to my inventory)",
   "km_away": "%{distance} km away",
   "km_away_from_you": "%{distance} km away from you",
