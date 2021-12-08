@@ -40,6 +40,8 @@
   "group_invitation_inventory": "You can already see the books **%{groupName}** members share publicly [here](%{pathname}), but you need an account to have access to all the books the group has to share.",
   "group_invite_button": "go to the group's page to accept or decline the invitation",
   "group_invite_subject": "%{actingUserUsername} invited you to join the group %{groupName}!",
+  "group_join_request_button": "Go to group settings to accept or refuse %{requesterUsername}'s request",
+  "group_join_request_subject": "%{requesterUsername} would like to join the group %{groupName}",
   "inventorying_personalized": null,
   "inventorying_personalized_strong": null,
   "km_away": null,
