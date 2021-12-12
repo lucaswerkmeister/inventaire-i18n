@@ -75,6 +75,7 @@
   "update_on_your_item_subject": "some news from %{username} about your book [%{title}](%{link})",
   "update_on_your_item_title": "[%{title}] updates on %{username}'s request",
   "user_news": "Hello %{username}!",
+  "x_more_books_to_inventory": "%{itemsLength} more",
   "you_are_welcome_to_reply": "**you are very welcome to reply to this email** for any question or feedback",
   "your_item_was_requested_button": "answer",
   "your_item_was_requested_subject": "%{username} requested your book [%{title}](%{link})",
