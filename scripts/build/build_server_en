@@ -7,7 +7,7 @@ const distValues = {}
 for (const key in serverValues) {
   // Borrowing values from the client
   const value = serverValues[key]
-  if (value === null) {
+  if (value === '__reuse_client_value') {
     distValues[key] = enClientDistValues[key]
   } else {
     distValues[key] = convertMarkdown(value)
