@@ -79,6 +79,8 @@
   "item_request_text_suggestion_giving": "নমস্কার %{username}! আমি কি এই বইটি পেতে পারি?",
   "item_request_text_suggestion_lending": "নমস্কার %{username}! আমি কি এই বইটি ধার করতে পারি?",
   "item_request_text_suggestion_selling": "নমস্কার %{username}! আমি কি এই বইটি কিনতে পারি?",
+  "join_open_group_confirmation": null,
+  "join_open_group_warning": null,
   "just_inventorize_it": null,
   "km_away": null,
   "km_away_from_you": null,

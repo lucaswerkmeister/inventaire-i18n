@@ -79,6 +79,8 @@
   "item_request_text_suggestion_giving": "مرحبًا %{username}! هل بإمكاني الحصول على الكتاب؟",
   "item_request_text_suggestion_lending": "مرحبًا %{username}! هل بإمكاني استعارة الكتاب؟",
   "item_request_text_suggestion_selling": "مرحبًا %{username}! هل بإمكاني شراء الكتاب؟",
+  "join_open_group_confirmation": null,
+  "join_open_group_warning": null,
   "just_inventorize_it": "لاشيء (فقط إضافة لمخزوني)",
   "km_away": "يبعد %{distance} كم",
   "km_away_from_you": "يبعد عنك %{distance} كم",

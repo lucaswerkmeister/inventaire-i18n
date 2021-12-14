@@ -79,6 +79,8 @@
   "item_request_text_suggestion_giving": "Привіт %{username}! Можна мені отримати цю книгу?",
   "item_request_text_suggestion_lending": "Привіт %{username}! Можна позичити цю книгу?",
   "item_request_text_suggestion_selling": "Привіт %{username}! Можна придбати цю книгу?",
+  "join_open_group_confirmation": null,
+  "join_open_group_warning": null,
   "just_inventorize_it": "ні (лише додати до мого каталогу)",
   "km_away": "%{distance} км звідси",
   "km_away_from_you": "%{distance} км від вас",

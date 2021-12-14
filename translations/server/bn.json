@@ -65,6 +65,7 @@
   "update_on_your_item_subject": null,
   "update_on_your_item_title": null,
   "user_news": "নমস্কার %{username}!",
+  "x_more_books_to_inventory": null,
   "you_are_welcome_to_reply": null,
   "your_item_was_requested_button": "উত্তর",
   "your_item_was_requested_subject": " %{username} আপনার বইয়ের অনুরোধ জানিয়েছেন [%{title}](%{link})",

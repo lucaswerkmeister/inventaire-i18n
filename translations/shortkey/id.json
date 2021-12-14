@@ -79,6 +79,8 @@
   "item_request_text_suggestion_giving": "Halo %{username}! Apakah buku ini boleh untuk saya?",
   "item_request_text_suggestion_lending": "Halo %{username}! Bolehkah saya pinjam buku ini?",
   "item_request_text_suggestion_selling": "Halo %{username}! Apakah saya bisa membeli buku ini?",
+  "join_open_group_confirmation": null,
+  "join_open_group_warning": null,
   "just_inventorize_it": "tidak ada (tambahkan saja ke inventori saya)",
   "km_away": "%{distance} km dari sini",
   "km_away_from_you": "%{distance} km dari lokasi anda",

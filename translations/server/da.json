@@ -65,6 +65,7 @@
   "update_on_your_item_subject": "Nogle nyheder fra %{username} vedrørende din bog [%{title}](%{link})",
   "update_on_your_item_title": "[%{title}] opdateringer vedrørende %{username}'s anmodning",
   "user_news": "Hej %{username}!",
+  "x_more_books_to_inventory": null,
   "you_are_welcome_to_reply": "**Du er meget velkommen til at svare på denne mail** med spørgsmål og feedback.",
   "your_item_was_requested_button": "svar",
   "your_item_was_requested_subject": "%{username} anmodede om din bog [%{title}](%{link})",

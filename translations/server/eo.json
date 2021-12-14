@@ -65,6 +65,7 @@
   "update_on_your_item_subject": "novaĵoj de %{username} pri via libro [%{title}](%{link})",
   "update_on_your_item_title": "[%{title}] novaĵoj pri la peto de %{username}",
   "user_news": "Saluton %{username}!",
+  "x_more_books_to_inventory": null,
   "you_are_welcome_to_reply": "**vi povas respondi tiun retpoŝto** se vi havas iun ajn demandon aŭ prikomenton",
   "your_item_was_requested_button": "respondi",
   "your_item_was_requested_subject": "%{username} petis vian libron [%{title}](%{link})",

@@ -79,6 +79,8 @@
   "item_request_text_suggestion_giving": "Hoi  %{username}! Zou ik dit boek kunnen krijgen?",
   "item_request_text_suggestion_lending": "Hoi %{username}! Zou ik dit boek kunnen lenen?",
   "item_request_text_suggestion_selling": "Hoi %{username}! Zou ik dit boek kunnen kopen?",
+  "join_open_group_confirmation": null,
+  "join_open_group_warning": null,
   "just_inventorize_it": "geen (voeg het gewoon toe aan mijn inventaris)",
   "km_away": "%{distance} km weg",
   "km_away_from_you": null,

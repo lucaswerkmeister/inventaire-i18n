@@ -79,6 +79,8 @@
   "item_request_text_suggestion_giving": "¡Hola %{username}! ¿Pudiera quedarme con este libro?",
   "item_request_text_suggestion_lending": "¡Hola %{username}! ¿Pudiera prestarme este libro?",
   "item_request_text_suggestion_selling": "¡Hola %{username}! ¿Pudiera comprar este libro?",
+  "join_open_group_confirmation": null,
+  "join_open_group_warning": null,
   "just_inventorize_it": "nada (sólo añadirlo a mi inventario)",
   "km_away": "alejado %{distance} km",
   "km_away_from_you": "a %{distance} km de ti",

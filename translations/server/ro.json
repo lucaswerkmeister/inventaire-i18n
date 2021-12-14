@@ -65,6 +65,7 @@
   "update_on_your_item_subject": null,
   "update_on_your_item_title": null,
   "user_news": null,
+  "x_more_books_to_inventory": null,
   "you_are_welcome_to_reply": "**puteti utiliza acest email** pentru orice intrebare sau feedback",
   "your_item_was_requested_button": "raspuns",
   "your_item_was_requested_subject": "%{username} v-a solicitat cartea [%{title}](%{link}) ",

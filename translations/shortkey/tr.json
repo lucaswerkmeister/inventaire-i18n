@@ -79,6 +79,8 @@
   "item_request_text_suggestion_giving": "Merhaba %{username}! Bu kitabı alabilir miyim?",
   "item_request_text_suggestion_lending": "Merhaba %{username}! Bu kitabı ödünç alabilir miyim?",
   "item_request_text_suggestion_selling": "Merhaba %{username}! Bu kitabı satın alabilir miyim?",
+  "join_open_group_confirmation": null,
+  "join_open_group_warning": null,
   "just_inventorize_it": "hiçbiri (sadece envanterime ekle)",
   "km_away": "%{distance} km uzaklıkta",
   "km_away_from_you": null,

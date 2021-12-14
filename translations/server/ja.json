@@ -65,6 +65,7 @@
   "update_on_your_item_subject": "%{username} さんからのあなたの次の本についてのニュース [%{title}](%{link})",
   "update_on_your_item_title": "[%{title}]  %{username}さんのリクエストに関する更新情報",
   "user_news": "こんにちは%{username} さん！",
+  "x_more_books_to_inventory": null,
   "you_are_welcome_to_reply": "質問やフィードバックがあれば**ぜひこのメールに返信してください**",
   "your_item_was_requested_button": "回答",
   "your_item_was_requested_subject": "%{username} さんがあなたの次の本をリクエストしました [%{title}](%{link})",

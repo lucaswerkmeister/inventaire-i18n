@@ -65,6 +65,7 @@
   "update_on_your_item_subject": "zprávy od %{username} o tvojí knize [%{title}](%{link})",
   "update_on_your_item_title": "[%{title}] novinky o %{username}ově/ině žádosti",
   "user_news": "Ahoj %{username}!",
+  "x_more_books_to_inventory": null,
   "you_are_welcome_to_reply": "**Uvítáme vaši odpověď na tento e-mail** pro jakoukoli otázku nebo zpětnou vazbu",
   "your_item_was_requested_button": "odpověď",
   "your_item_was_requested_subject": "%{username} požádal/a o tvoji knihu [%{title}](%{link})",

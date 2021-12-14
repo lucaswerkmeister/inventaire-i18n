@@ -79,6 +79,8 @@
   "item_request_text_suggestion_giving": "Hej %{username}! Må jeg få denne bog?",
   "item_request_text_suggestion_lending": "Hej %{username}! Må jeg låne denne bog?",
   "item_request_text_suggestion_selling": "Hej %{username}! Må jeg købe denne bog?",
+  "join_open_group_confirmation": null,
+  "join_open_group_warning": null,
   "just_inventorize_it": "ingen (bare tilføj den til min beholdning)",
   "km_away": "%{distance} km væk",
   "km_away_from_you": null,

@@ -65,6 +65,7 @@
   "update_on_your_item_subject": "beberapa berita dari %{username} tentang buku anda [%{title}](%{link})",
   "update_on_your_item_title": "[%{title}] pembaruan atas permintaan %{username}",
   "user_news": "Halo %{username}!",
+  "x_more_books_to_inventory": null,
   "you_are_welcome_to_reply": "**anda sangat boleh untuk membalas surel ini** untuk pertanyaan atau umpan balik apapun",
   "your_item_was_requested_button": "jawab",
   "your_item_was_requested_subject": "%{username} meminta buku anda [%{title}](%{link})",

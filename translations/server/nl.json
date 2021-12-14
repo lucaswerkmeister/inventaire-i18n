@@ -65,6 +65,7 @@
   "update_on_your_item_subject": "nieuws van %{username} over je boek [%{title}](%{link})",
   "update_on_your_item_title": "[%{title}] updates op %{username}'s aanvraag",
   "user_news": "Hallo %{username}!",
+  "x_more_books_to_inventory": null,
   "you_are_welcome_to_reply": "**je wordt hartelijk uitgenodigd te reageren op deze e-mail** voor feedback of welke vraag dan ook",
   "your_item_was_requested_button": "beantwoorden",
   "your_item_was_requested_subject": "%{username} vroeg je boek [%{title}](%{link}) aan",

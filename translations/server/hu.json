@@ -65,6 +65,7 @@
   "update_on_your_item_subject": "Új hírek %{username} felhasználótól a könyvedről [%{title}](%{link})",
   "update_on_your_item_title": "[%{title}] fejlemények %{username} kérésével kapcsolatban",
   "user_news": "Helló %{username}!",
+  "x_more_books_to_inventory": null,
   "you_are_welcome_to_reply": "**Szívesen fogadjuk, ha válaszolsz erre az e-mailre**, ha bármilyen kérdésed vagy megjegyzésed van",
   "your_item_was_requested_button": "válasz",
   "your_item_was_requested_subject": "%{username} kérte következő könyvedet: [%{title}](%{link})",

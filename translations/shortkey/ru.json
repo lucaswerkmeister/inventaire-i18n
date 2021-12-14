@@ -79,6 +79,8 @@
   "item_request_text_suggestion_giving": null,
   "item_request_text_suggestion_lending": null,
   "item_request_text_suggestion_selling": "Здравствуйте, %{username}! Могу ли я купить эту книгу?",
+  "join_open_group_confirmation": null,
+  "join_open_group_warning": null,
   "just_inventorize_it": null,
   "km_away": "%{distance} км отсюда",
   "km_away_from_you": "%{distance} км от вас",

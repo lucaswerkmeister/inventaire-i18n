@@ -79,6 +79,8 @@
   "item_request_text_suggestion_giving": "Hola %{username}! Puc tenir aquest llibre?",
   "item_request_text_suggestion_lending": "Hola %{username}! Podeu prestar-me aquest llibre?",
   "item_request_text_suggestion_selling": "Hola %{username}! Puc comprar aquest llibre?",
+  "join_open_group_confirmation": null,
+  "join_open_group_warning": null,
   "just_inventorize_it": "cap (afegeix-lo al meu inventari)",
   "km_away": "a %{distance} km",
   "km_away_from_you": "a %{distance} km d'on sou",

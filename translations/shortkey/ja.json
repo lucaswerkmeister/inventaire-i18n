@@ -79,6 +79,8 @@
   "item_request_text_suggestion_giving": "%{username}さん、こんにちは！この本を貰っても良いですか？",
   "item_request_text_suggestion_lending": "%{username}さん、こんにちは！この本を借りても良いですか？",
   "item_request_text_suggestion_selling": "%{username}さん、こんにちは！この本を買っても良いですか？",
+  "join_open_group_confirmation": null,
+  "join_open_group_warning": null,
   "just_inventorize_it": "何もしない(単に自分の書庫に追加)",
   "km_away": "距離：%{distance} km",
   "km_away_from_you": null,
