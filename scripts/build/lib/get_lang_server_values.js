@@ -9,7 +9,7 @@ module.exports = lang => {
   for (const key in enValues) {
     // Borrowing values from the client
     const enValue = enValues[key]
-    if (enValue === null) {
+    if (enValue === '__reuse_client_value') {
       distValues[key] = langClientDistValues[key]
     } else {
       const langValue = langValues[key]
